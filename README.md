@@ -1,2 +1,36 @@
-# Python
-A structured Python programming repository covering core concepts, problem solving, and practical implementations from basics to intermediate level. Includes hands-on exercises, modular code examples, and mini-projects focused on building strong programming fundamentals and real-world development skills Add.
+# 🐍 Python Learning Repository
+
+A structured Python repository covering:
+- Core Concepts
+- Problem Solving
+- Mini Projects
+
+## 📂 Folder Structure
+
+python-projects/
+│
+├── basics/
+├── strings/
+├── loops/
+├── functions/
+├── file_handling/
+├── mini_projects/
+
+## 🚀 Topics Covered
+
+- Data Types
+- Loops & Conditions
+- Functions
+- OOP
+- File Handling
+- Python Libraries
+
+## 🧠 Goal
+
+To build strong programming fundamentals and real-world development skills.
+
+## 📌 Author
+
+Hit Galani  
+BCA (AI) Student  
+GitHub: https://github.com/HDG-Code
